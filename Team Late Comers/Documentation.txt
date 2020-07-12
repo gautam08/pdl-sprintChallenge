@@ -1,0 +1,15 @@
+Project name- INCUBATEIND Digital Lab Sprint Challenge
+
+
+Description- This project showcases the speed improvement of a shopify page.
+
+
+       
+Contents ->
+           1. Three products page lighthouse results before any improvements made
+		   2. Three products page lighthouse results after improvements made
+
+Ways to host it on local server ->
+            1. Using Wampserver
+			2. phpMyAdmin
+             
